@@ -72,7 +72,7 @@ We respect open source principles and use appropriate licenses based on project 
 ## 🤝 Get in Touch
 
 - 💬 GitHub Issues: Report bugs or suggest features in relevant repos
-- 📧 Email: contact@littletreestudio.dev *(example — please replace)*
+- 📧 Email: zsxiaoshu@outlook.com 
 - 🌐 Website (coming soon): [https://zsxiaoshu.cn](https://zsxiaoshu.cn)
 
 > We may not reply immediately, but every message is read and appreciated.
