@@ -96,9 +96,7 @@ Let’s build a better tech community — one small tree at a time.
 
 ---
 
-## 📂 Repository Guide (Optional Add-on)
-
-If you'd like, you can add a section listing your public repos:
+## 📂 Repository Guide
 
 ### 🔧 Public Projects
 - [Little-Tree-Wallpaper](https://github.com/shu-shu-1/Little-Tree-Wallpaper) – Our wallpaper app (Python)
